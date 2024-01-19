@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h3 align="center">Visual Basic Homework Assignments</h3>
+  <h3 align="center">Visual Basic Homework Assignments [WIP]</h3>
   <p align="center">
     A collection of my homework assignments from my Visual Basic progamming course taken at OCCC.
   </p>
@@ -18,6 +18,7 @@ I wanted to create a few repositories to showcase the assignments I worked on th
 ## Assignments
 
 Brief sypnosis of the assignments.
+[WIP] 
 
 ### Cash Register
 ### Karate
