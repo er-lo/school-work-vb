@@ -1,0 +1,16 @@
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\bin\Debug\Lopez_SoccerScoreKeeper.exe.config
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\bin\Debug\Lopez_SoccerScoreKeeper.exe
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\bin\Debug\Lopez_SoccerScoreKeeper.pdb
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\bin\Debug\Lopez_SoccerScoreKeeper.xml
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.vbproj.AssemblyReference.cache
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.frmAddGoals.resources
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.frmAddPlayer.resources
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.Resources.resources
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.frmSoccerScoreMain.resources
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.frmStartup.resources
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.vbproj.GenerateResource.cache
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.vbproj.CoreCompileInputs.cache
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.exe
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.xml
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.pdb
+C:\Users\erlus\source\repos\Lopez_SoccerScoreKeeper\obj\Debug\Lopez_SoccerScoreKeeper.AboutBoxSoccerScore.resources
