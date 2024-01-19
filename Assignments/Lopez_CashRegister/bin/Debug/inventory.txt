@@ -1,0 +1,5 @@
+001,Monitor,10,100,4
+002,i5 Processor,180,250,2
+003,i7 Processor,300,440,2
+004,4GB Video Card,240,320,3
+005,6GB Video Card,380,500,3

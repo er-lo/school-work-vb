@@ -1,0 +1,15 @@
+C:\Users\erlus\source\repos\Lopez_CashRegister\bin\Debug\Lopez_CashRegister.exe.config
+C:\Users\erlus\source\repos\Lopez_CashRegister\bin\Debug\Lopez_CashRegister.exe
+C:\Users\erlus\source\repos\Lopez_CashRegister\bin\Debug\Lopez_CashRegister.pdb
+C:\Users\erlus\source\repos\Lopez_CashRegister\bin\Debug\Lopez_CashRegister.xml
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.frmAddInventory.resources
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.frmDisplayInventory.resources
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.frmMainForm.resources
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.frmUpdateInventory.resources
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.Resources.resources
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.vbproj.GenerateResource.cache
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.vbproj.CoreCompileInputs.cache
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.exe
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.xml
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.pdb
+C:\Users\erlus\source\repos\Lopez_CashRegister\obj\Debug\Lopez_CashRegister.vbproj.AssemblyReference.cache
